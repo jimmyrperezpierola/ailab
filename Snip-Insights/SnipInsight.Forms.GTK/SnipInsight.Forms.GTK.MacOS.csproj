@@ -211,7 +211,7 @@
       <Version>1.0.0-beta0005</Version>
     </PackageReference>
     <PackageReference Include="SixLabors.ImageSharp">
-      <Version>1.0.0-beta0004</Version>
+      <Version>2.1.9</Version>
     </PackageReference>
     <PackageReference Include="System.AppContext">
       <Version>4.3.0</Version>
